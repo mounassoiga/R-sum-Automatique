@@ -20,4 +20,10 @@ Le système repose sur l’idée que les mots les plus fréquents sont les plus 
 Chaque phrase reçoit un score basé sur la somme des fréquences des mots qu’elle contient.  
 Les phrases avec les scores les plus élevés composent le résumé final.
 
+---
 
+## 👩‍💻 Auteur
+
+**Maimouna Oiga**  
+Étudiante en Master 2 Sciences et Ingénierie des Données  
+📧 maimounaoiga@gmail.com 
