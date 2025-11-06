@@ -1,0 +1,32 @@
+Internet 
+1. Historique 
+Internet paraît une nouveauté sortie très récemment du néant.   
+Et pourtant, le principe naît en 1969 aux Etats-Unis : création de laboratoires militaires 
+américains.  
+Au début, Internet n'est accessible qu'aux universités et aux grandes entreprises.  
+C'est au début des années 90 qu'Internet va connaître un formidable essor avec l'arrivée du 
+Web : pour la première fois Internet présente une interface graphique interactive, simple, 
+conviviale et rapide… 
+2. Définition de l’Internet 
+Le mot Internet vient de l’anglais Interconnected Networks, ce qui lui a valu d’être appelé le 
+"réseau des réseaux".  
+Ces réseaux se communiquent entre eux grâce à des règles d’échanges de données standard.  
+Ces règles sont connues sous le nom de protocoles et permettent de faire communiquer 
+plusieurs ordinateurs et plusieurs réseaux entre eux.  
+Internet est donc un réseau international qui relie des millions d’ordinateurs. 
+3. Le web 
+3.1. Définition 
+Le Web ou le World Wide Web (d’où l’acronyme WWW) permet de consulter des sites web 
+en utilisant le protocole HTTP (HyperText Transfert Protocol).  
+Ce service est le plus utilisé en termes de volume d’informations transitant sur le réseau 
+Internet.  
+Il permet aux internautes d’accéder à des documents multimédia sur des millions de serveurs 
+web. 
+La caractéristique principale du service web est qu’un serveur peut à tout moment rediriger 
+l’utilisateur vers des informations contenues sur d’autres serveurs. 
+3.2. Recherche d'informations 
+Internet met à la disposition de ses utilisateurs un grand nombre de ressources (informations, 
+logiciels, images, vidéos, etc.), il se présente comme une énorme bibliothèque.  
+Il est donc nécessaire de disposer d’outils efficaces pour retrouver les informations désirées.  
+On trouve principalement les catalogues (appelés aussi annuaires) et les moteurs de 
+recherches.
